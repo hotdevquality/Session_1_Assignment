@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ACD_AN_Session_1_Assignment_1_Main</string>
+    <string name="greetings_message_holder">Greetings appear here...</string>
+    <string name="show_greetings_btn">CLICK TO SHOW GREETINGS</string>
+    <string name="from_timothy">From Timothy</string>
+    <string name="action_settings">Settings</string>
+</resources>
